@@ -1,1 +1,0 @@
-<?php include_once("CV/index.html"); ?>
